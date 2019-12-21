@@ -3,7 +3,7 @@
 
 <div align="center">Buat package dan modul berdasarkan tugas 
 praktikum sebelumnya dengan struktur seperti berikut:</div>
-
+<br>
 <p>
 <img align="left" width="300px" height=100% src="https://github.com/antonmartinus72/Tugas_7/blob/master/img/tugas.JPG">
 
@@ -18,7 +18,7 @@ praktikum sebelumnya dengan struktur seperti berikut:</div>
 </p>
 <br>
 <h2 align="center">Keterangan Tugas</h2>
-
+<br>
 <img align="right" width="300px" height=100% src="https://github.com/antonmartinus72/Tugas_7/blob/master/img/tugas_2.JPG">
 
  - Output yang dihasilkan sama persis seperti output tugas sebelumnya.
