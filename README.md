@@ -1,6 +1,6 @@
 <p>
 <h1 align=center> Tugas 7 </h1>
-
+<br>
 <div align="center">Buat package dan modul berdasarkan tugas 
 praktikum sebelumnya dengan struktur seperti berikut:</div>
 <br>
@@ -25,6 +25,8 @@ praktikum sebelumnya dengan struktur seperti berikut:</div>
  - Tugas sebelumnya bisa ditemukan
    [disini](https://github.com/antonmartinus72/Praktikum_5)
 
+<br>
+<br>
 <br>
 <br>
 <p align=center>
