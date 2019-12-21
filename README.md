@@ -29,7 +29,6 @@ praktikum sebelumnya dengan struktur seperti berikut:</b></div>
 <br>
 <br>
 <br>
-<br>
 <p align=center>
 Anton Martinus A.A.Y
 <br>
