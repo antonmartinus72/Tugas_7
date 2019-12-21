@@ -19,8 +19,9 @@ praktikum sebelumnya dengan struktur seperti berikut:</div>
 </p>
 
 <h2 align="center">Keterangan Tugas</h2>
+
 <p align="center">
-<img width="90%" height="90%" src="https://github.com/antonmartinus72/Tugas_7/blob/master/img/tugas_2.JPG">
+<img width="100%" height=auto src="https://github.com/antonmartinus72/Tugas_7/blob/master/img/tugas_2.JPG">
 </p>
 
  - Output yang dihasilkan sama persis seperti output tugas sebelumnya.
