@@ -22,10 +22,10 @@ praktikum sebelumnya dengan struktur seperti berikut:</b></div>
 <img align="left" width="300px" height=100% src="https://github.com/antonmartinus72/Tugas_7/blob/master/img/tugas_2.JPG">
 
  - Output yang dihasilkan sama persis seperti output tugas sebelumnya.
+ - Source code bisa ditemukan [disini](https://github.com/antonmartinus72/Tugas_7/tree/master/py)
  - Tugas sebelumnya bisa ditemukan
    [disini](https://github.com/antonmartinus72/Praktikum_5)
 
-<br>
 <br>
 <br>
 <br>
