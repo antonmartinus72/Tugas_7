@@ -16,7 +16,7 @@ praktikum sebelumnya dengan struktur seperti berikut:</div>
  - main.py berisi program utama (menu pilihan yang memanggil semua menu
    yang ada)
 </p>
-
+<br>
 <h2 align="center">Keterangan Tugas</h2>
 
 <img align="right" width="300px" height=100% src="https://github.com/antonmartinus72/Tugas_7/blob/master/img/tugas_2.JPG">
