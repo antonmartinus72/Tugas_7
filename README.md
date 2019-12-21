@@ -15,14 +15,11 @@ praktikum sebelumnya dengan struktur seperti berikut:</div>
    memasukkan data.
  - main.py berisi program utama (menu pilihan yang memanggil semua menu
    yang ada)
-
 </p>
 
 <h2 align="center">Keterangan Tugas</h2>
 
-<p align="center">
-<img width="100%" height=auto src="https://github.com/antonmartinus72/Tugas_7/blob/master/img/tugas_2.JPG">
-</p>
+<img align="right" width="300px" height=100% src="https://github.com/antonmartinus72/Tugas_7/blob/master/img/tugas_2.JPG">
 
  - Output yang dihasilkan sama persis seperti output tugas sebelumnya.
  - Tugas sebelumnya bisa ditemukan
